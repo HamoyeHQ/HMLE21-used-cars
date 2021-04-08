@@ -6,8 +6,9 @@
 
 **Dataset Description**
 
-*Craigslist is the world's largest collection of used vehicles for sale, yet it's very difficult to locate a rendezvous for all. The dataset includes every used vehicle entry within the United States on Craigslist. This data is scraped every few months, it contains almost all relevant information that Craigslist provides on car sales including columns like price, condition, manufacturer, latitude/longitude, and 18 other categories. 
-*
+*Craigslist is the world's largest collection of used vehicles for sale, yet it's very difficult to locate a rendezvous for all. The dataset includes every used vehicle entry within the United States on Craigslist. This data is scraped every few months, it contains almost all relevant information that Craigslist provides on car sales including columns like price, condition, manufacturer, latitude/longitude, and 18 other categories.*
+
+
 [Link to dataset](https://www.kaggle.com/austinreese/craigslist-carstrucks-data)
 
 
